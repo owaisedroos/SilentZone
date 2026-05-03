@@ -13,7 +13,7 @@ Built using Flutter, SilentZone leverages GPS geofencing and native Android inte
 
 ---
 
-## 🚨 Problem Statement
+##  Problem Statement
 
 Mobile phones frequently cause disturbances in sensitive environments because users forget to silence them manually.
 
@@ -26,7 +26,7 @@ SilentZone solves this by automating silence based on **real-time GPS location**
 
 ---
 
-## ✨ Features
+##  Features
 
 - 📍 Real-Time GPS Tracking  
 - 🔕 Automatic Silent Mode (Auto-Silence)  
@@ -41,7 +41,7 @@ SilentZone solves this by automating silence based on **real-time GPS location**
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - **Framework:** Flutter (Dart)  
 - **Maps:** OpenStreetMap (flutter_map)  
@@ -53,7 +53,7 @@ SilentZone solves this by automating silence based on **real-time GPS location**
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 SilentZone follows a **Service-Oriented Architecture**:
 
@@ -68,7 +68,7 @@ This modular approach ensures scalability and maintainability.
 
 ---
 
-## 📐 Core Working (Geofencing)
+##  Core Working (Geofencing)
 
 SilentZone uses the **Haversine Formula** to calculate distance between user location and zone center.
 
@@ -78,7 +78,7 @@ When:
 
 ---
 
-## 📱 Screenshots
+##  Screenshots
 
 > Add your screenshots here (replace with your GitHub image links)
 
@@ -88,7 +88,7 @@ When:
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 
 1. App continuously tracks user GPS  
 2. Compares location with stored zones  
@@ -99,7 +99,7 @@ When:
 
 ---
 
-## 📊 Predefined Zones
+##  Predefined Zones
 
 Includes real locations like:
 - Hospitals (Lilavati, Nanavati, KEM)
@@ -108,22 +108,11 @@ Includes real locations like:
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
-- 🌐 Cloud-based zone sync  
-- 🤖 AI-based smart silence prediction  
-- 📅 Calendar integration  
-- 🍎 iOS support with Focus Modes  
-- 📡 Background service optimization  
+-  Cloud-based zone sync  
+-  AI-based smart silence prediction  
+-  Calendar integration  
+-  iOS support with Focus Modes  
+-  Background service optimization  
 
----
-
-## 📌 Conclusion
-
-SilentZone demonstrates how GPS, geofencing, and system-level controls can be combined to solve real-world problems by automating user behavior intelligently.
-
----
-
-## 📁 Repository
-
-🔗 https://github.com/your-username/SilentZone
