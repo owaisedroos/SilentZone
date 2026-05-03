@@ -84,7 +84,7 @@ When:
 
 | Map View | Notification | Zone Detection |
 |---------|-------------|----------------|
-| <img src="screenshots/WhatsApp Image 2026-04-28 at 15.57.55 (1).jpeg" width="250"/> | <img src="screenshots/WhatsApp Image 2026-04-28 at 15.57.55 (2).jpeg" width="250"/> | <img src="screenshots/WhatsApp Image 2026-04-28 at 15.57.55.jpeg" width="250"/> |
+| <img src="screenshots/WhatsApp Image 2026-04-28 at 15.57.55 (1).jpeg" width="250"/> | <img src="screenshots/WhatsApp Image 2026-04-28 at 15.57.55.jpeg" width="250"/> | <img src="screenshots/WhatsApp Image 2026-04-28 at 15.57.55 (2).jpeg" width="250"/> |
 
 ---
 
